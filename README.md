@@ -1,6 +1,14 @@
 # AdGuard DNS Blocklists for Vivaldi
 
-These blocklists enhance your Vivaldi browser's privacy by blocking unwanted ads and trackers.
+About This Repository
+Welcome to the AdGuard DNS Blocklists for Vivaldi repository! This project aims to enhance your browsing experience with the Vivaldi browser by providing curated blocklists to block unwanted ads, trackers, and malicious content.
+
+Key Features:
+Comprehensive Blocklists: Includes a variety of blocklists from reputable sources to ensure a cleaner, safer browsing experience.
+
+Easy Integration: Simple instructions to integrate these blocklists with your Vivaldi browser.
+
+Open Source: Licensed under the GNU General Public License v3.0, ensuring the freedom to use, share, and modify the blocklists.
 
 ## How to Use
 - **Step 1**: [Link to instructions on how to set up blocklists in Vivaldi].
