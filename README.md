@@ -10,7 +10,7 @@ Easy Integration: Simple instructions to integrate these blocklists with your Vi
 Open Source: Licensed under the GNU General Public License v3.0, ensuring the freedom to use, share, and modify the blocklists.
 
 ## How to Use
-- **Step 1**: [Link to instructions on how to set up blocklists in Vivaldi].
+- **Step 1**: Navigate to the privacy settings and under **Tracker and Adblocker** add the blocklist that you'd like using **Managing Sources**.
 - **Step 2**: Use the following links to add the blocklists:
   - [AdGuard DNS-Filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
   - [AWAvenue Ads Rule](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
