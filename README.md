@@ -40,8 +40,7 @@ Open Source: Licensed under the GNU General Public License v3.0, ensuring the fr
   - [Stalkerware Indicators List](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts)
   - [AssoEchap's Malware List](https://raw.githubusercontent.com/AssoEchap/stevenblack/master/generated/hosts)
   - [uBlock,-Filter - Risks Through Badware](https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt)
-  - [Malicious Filter - Badware](https://raw.githubusercontent.com/BlockOrigin/Assets/master/filters/badware.txt)
-  - [Malicious Filter - Badware (URLHaus)](https://malware-filter.gitlab.io/malware-filter/filters-adh/urhaus-filter-agh.txt)
+  - [Malicious Filter (URLHaus)](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt)
 
 ## License
 These blocklists are provided under the [GNU General Public License v3.0](link-to-GPL-3.0). Please see the LICENSE file for more details.
